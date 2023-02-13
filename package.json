@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Alejandro Mata",
+	"author": "Alejandro Mata Álvarez",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
